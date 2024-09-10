@@ -6,3 +6,5 @@ Just some code practice
 **circularQueue.c - Circular single ended queue overcomes the problems of standard queue**
 
 **recursivePalinstr.c - Checking if given string is palindrome using recursive function**
+
+**Longestword.c - Lab midsem practice**
