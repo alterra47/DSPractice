@@ -8,3 +8,5 @@ Just some code practice
 **recursivePalinstr.c - Checking if given string is palindrome using recursive function**
 
 **Longestword.c - Lab midsem practice**
+
+**demo.c-Infix to Binary Expression Tree**
